@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**TokenElevation/TokenElevation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Yo, im TokenElevation
+im a 15 yo developer focused on systems programming, RE , and low-level optimization.
+### Tech Stack & Interests
+- **Languages:** C#, C++, Luau/Lua
+- **Focus Areas:** Windows Internals, Reverse Engineering, System Optimization
+- **Currently Learning:** Advanced C# architecture, low-level memory manipulation, and UI/UX design for desktop applications.
+### 🎯 Goals
+- Build tools that are transparent, safe, and highly effective.
+- Create a solid portfolio of low-level projects.
+- Keep learning, keep breaking things, and keep fixing them better than before.
